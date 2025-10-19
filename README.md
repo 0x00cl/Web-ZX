@@ -16,8 +16,8 @@ Currently the repository has 2 type of files:
 
 ### Hacker news
 
-![Video of the redesign of Hacker news in the ZX Spectrum (Fuse)](/assets/hackernews.mp4)
+https://github.com/user-attachments/assets/3a2a0527-3b1e-43eb-adad-0757c38fdf09
 
 ### Google
 
-![Video of the redesign of Google in the ZX Spectrum (Fuse)](/assets/google.mp4)
+https://github.com/user-attachments/assets/38c41dbb-9b45-4ebe-9470-18ce0f143b0d
